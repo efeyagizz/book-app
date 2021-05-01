@@ -1,0 +1,9 @@
+.hover:hover {
+    border: 1px solid black;
+}
+
+
+  .read-or-hide{
+    color: rgb(192,192,192);
+    cursor: pointer;
+  }
