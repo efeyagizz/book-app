@@ -24,13 +24,13 @@ class BookList extends React.Component {
                     <ReadMoreReact text={book.examine}
                     min={100}
                     ideal={150}
-                    max={600}
+                    max={6000}
                     readMoreText={<span style={{fontWeight: "bold"}}>Devamını Oku</span>}/>
                     <div className="d-flex justify-content-between align-items-center">
                     <p className="card-text">{book.publisher}
                     </p>
                     </div>
-                    <p>Sayfa Sayısı: <span>{book.pages}</span></p>
+                    
                   </div>
                 </div>
               </div>

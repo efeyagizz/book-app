@@ -2,6 +2,7 @@ import React from 'react';
 import BookList from './BookList';
 import SearchBar from './SearchBar';
 import axios from 'axios';
+import AddBook from './AddBook';
 
 
 class App extends React.Component {
@@ -20,6 +21,13 @@ class App extends React.Component {
       searchBook = (event) => {
         this.setState({ searchQuery: event.target.value });
       };
+
+      addBook = async (book) => {
+        await axios.post(`http://localhost:3002/books`, book)
+        this.setState(state => ({
+          books: state.books.concat([book])
+        }))
+      }
 
     render() {
         let filteredBooks = this.state.books
@@ -43,9 +51,14 @@ class App extends React.Component {
                         </div>
                             <BookList
                             books={filteredBooks} />
-                        
+
+                            
                     </div>
                 </React.Fragment>
+
+                <AddBook 
+                              AddNewBook = {(book) => this.addBook(book)}
+                            />
                 
                     
             </div>

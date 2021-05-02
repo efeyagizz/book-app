@@ -1,53 +1,66 @@
 {
-"books": [
+  "books": [
     {
-        "id": 1,
-        "name": "Dune",
-        "examine": "Atreides’in ailesi, evrendeki en önemli ve en değerli madde olan melanj ‘baharatının’ tek kaynağı olarak bilinen Arrakis gezegeninin kontrolünü kabul etmiştir. İmpatorluğun güçleri Arrakis’in kontrolü için birbirlerinin boğazına sarılırken, politika, din, ekoloji, teknoloji ve insani duyguların çok katmanlı, karmaşık etkileşiminden benzersiz bir hikâye doğacaktır. ",
-        "publisher": "İthaki Yayınları",
-        "pages": 712,
-        "imageURL": "https://img.kitapyurdu.com/v1/getImage/fn:11384315/wh:true/wi:220"
-    },
-
-    {
-        "id": 2,
-        "name": "Dune Mesihi",
-        "examine": "Fremenlerin başına geçip Dune adıyla bilinen Arrakis gezegenini kontrol etmeye başlamakla kalmayıp evrenin hükümdarı olan Paul, çağlar süren bir düzene son vermiş, bir halkın kurtuluşu olmuş ve bir gezegenin en büyük ütopyasını gerçekleştirmeye ant içmiştir. Ancak zaferinden on iki yıl sonra, tüm bu güçlere sahip olmasının sebebi olan etkenler onun için bir tehlikeye dönüşür. Paul ise öngörülerine rağmen, felaket getireceğini düşündüğü geleceği değiştirmeye kararlıdır.",
-        "publisher": "İthaki Yayınları",
-        "pages": 296,
-        "imageURL": "https://img.kitapyurdu.com/v1/getImage/fn:11275791/wh:true/wi:220"
-    },
-
-    {
-        "id": 3,
-        "name": "Dune Çocukları",
-        "examine": "Paul'ün çöle gidişinin üzerinden dokuz sene geçmiş, çöl gezegeni artık yeşillenmeye başlamıştı. Baharat üretimi de giderek artıyordu. Bu değişimlerle beraber çöl terk ediliyor, kök salmış âdetlerden sapılıyordu.Baharatın sağladığı geleceği görme gücünden yoksun kalan Alia, İmparatorluk'u kaybetmemek adına elinden geleni yaparken, karşısında geçmişinden hesaba katmadığı rakipler bulacaktı. Çölün derinliklerinden çıkagelen Vaiz, Paul'ün dinine karşı vaazlar veriyordu. Unutulmayan kan davaları tekrar gün yüzüne çıkacaktı.Paul'ün ikizleri, II. Leto ve Ganimet ise İmparatorluk'un yeni mehdileri olarak yetiştirilmekteydi. Fakat onların da kendi planları vardı.",
-        "publisher": "İthaki Yayınları",
-        "pages": 552,
-        "imageURL": "https://i.dr.com.tr/cache/600x600-0/originals/0000000719727-1.jpg"
+      "id": 1,
+      "name": "Dune",
+      "examine": "Atreides’in ailesi, evrendeki en önemli ve en değerli madde olan melanj ‘baharatının’ tek kaynağı olarak bilinen Arrakis gezegeninin kontrolünü kabul etmiştir. İmpatorluğun güçleri Arrakis’in kontrolü için birbirlerinin boğazına sarılırken, politika, din, ekoloji, teknoloji ve insani duyguların çok katmanlı, karmaşık etkileşiminden benzersiz bir hikâye doğacaktır. ",
+      "publisher": "İthaki Yayınları",
+      "pages": 712,
+      "imageURL": "https://img.kitapyurdu.com/v1/getImage/fn:11384315/wh:true/wi:220"
     },
     {
-        "id": 4,
-        "name": "Dune Tanrı İmparatoru",
-        "examine": "Dune Çocukları’ndaki olayların üzerinden üç bin yıldan fazla geçmiştir. Dune artık çok farklı bir gezegendir. Fakat değişmeyen bir şey var: Dune’un Tanrı İmparatoru II. Leto.Dune adıyla bilinen Arrakis gezegeninden evreni kontrol eden Tanrı İmparator II. Leto, evrene daha önce tatmadığı uzunlukta bir barış getirmişti. Fakat son yaklaşıyordu. İnsanlığın evrimini ve geleceğini tayin edebilecek tek kişi olan Tanrı İmparator II. Leto nihai zaferine ulaşmak için çok büyük bir fedakârlıkta bulunmalıydı…",
-        "pages": 512,
-        "imageURL": "https://i.dr.com.tr/cache/600x600-0/originals/0001723185001-1.jpg"
+      "id": 2,
+      "name": "Dune Mesihi",
+      "examine": "Fremenlerin başına geçip Dune adıyla bilinen Arrakis gezegenini kontrol etmeye başlamakla kalmayıp evrenin hükümdarı olan Paul, çağlar süren bir düzene son vermiş, bir halkın kurtuluşu olmuş ve bir gezegenin en büyük ütopyasını gerçekleştirmeye ant içmiştir. Ancak zaferinden on iki yıl sonra, tüm bu güçlere sahip olmasının sebebi olan etkenler onun için bir tehlikeye dönüşür. Paul ise öngörülerine rağmen, felaket getireceğini düşündüğü geleceği değiştirmeye kararlıdır.",
+      "publisher": "İthaki Yayınları",
+      "pages": 296,
+      "imageURL": "https://img.kitapyurdu.com/v1/getImage/fn:11275791/wh:true/wi:220"
     },
     {
-        "id": 5,
-        "name": "Dune Sapkınları",
-        "examine": "Tanrı İmparator II. Leto’nun üç bin beş yüz yıla yakın süren hükümdarlığının son bulmasının üstünden bin beş yüz yıl geçti. Altın Yol için yaptığı bu fedakârlıktan sonra insanlar II. Leto’nun “gerçekten de” ölüp ölmediğinden hâlâ emin değillerdi ve İmparatorluk harap olsa da Altın Yol’u sıkı sıkıya takip etmeye devam edeceklerdi.Dağılış sonucu milyonlarca insan parçalanan medeniyeti terk ederek uzayın bilinmeyen köşelerine dağılmışlardı. Artık Rakis denen Arrakis yine çölleşmişti ve kum solucanları ölmekteydi. Bu sırada, Kayıp Olanlar gücü ellerine geçirmek için geri dönmüştü. Hizipler, İmparatorluk’tan arta kalanın kontrolünü ele geçirmek için yarışırken Rakis’te Sheeana adında bir kız tüm dikkatleri üstüne çekmişti çünkü son Tanrı İmparator’un bahsettiği kehaneti gerçekleştirebiliyordu: Kum solucanlarını kontrol etmek.Tüm bunlar olurken Bene Geseritler’in önünde iki seçenek vardı: Ya gizli manipülatörler olarak, hayatta kalmaya çabalayan insanlığın aynı yolda ilerlemesini yönlendirmeye devam edip gerilimi azaltacak ya da Altın Yol’u kabul edip insanlığı yok olma tehlikesinden uzak yeni bir geleceğe götüreceklerdi.",
-        "publisher": "İthaki Yayınları",
-        "pages": 632,
-        "imageURL": "https://i.dr.com.tr/cache/600x600-0/originals/0001893221001-1.jpg"
+      "id": 3,
+      "name": "Dune Çocukları",
+      "examine": "Paul'ün çöle gidişinin üzerinden dokuz sene geçmiş, çöl gezegeni artık yeşillenmeye başlamıştı. Baharat üretimi de giderek artıyordu. Bu değişimlerle beraber çöl terk ediliyor, kök salmış âdetlerden sapılıyordu.Baharatın sağladığı geleceği görme gücünden yoksun kalan Alia, İmparatorluk'u kaybetmemek adına elinden geleni yaparken, karşısında geçmişinden hesaba katmadığı rakipler bulacaktı. Çölün derinliklerinden çıkagelen Vaiz, Paul'ün dinine karşı vaazlar veriyordu. Unutulmayan kan davaları tekrar gün yüzüne çıkacaktı.Paul'ün ikizleri, II. Leto ve Ganimet ise İmparatorluk'un yeni mehdileri olarak yetiştirilmekteydi. Fakat onların da kendi planları vardı.",
+      "publisher": "İthaki Yayınları",
+      "pages": 552,
+      "imageURL": "https://i.dr.com.tr/cache/600x600-0/originals/0000000719727-1.jpg"
     },
     {
-        "id": 6,
-        "name": "Dune Rahibeler Meclisi",
-        "examine": "Dune adıyla bilinen Arrakis gezegeni yok edilmişti. Maderşahi örgüt Saygın Analar, Eski İmparatorluk’tan geriye kalanları yakıp kül ediyordu. Mutlak fetihlerinin önünde duran tek bir güç kalmıştı geriye: Bene Gesserit.Başrahibe Ana Darwi Odrade’nin önderlik ettiği Bene Gesseritler, yeşilliklerle dolu Rahibeler Meclisi gezegeni adım adım bir çöle dönüştürüyordu. Amaçları, kumsolucanları için ideal bir ortam yaratmak ve evrendeki en önemli maddenin üretimini kontrol etmekti – melanjın.Saygın Analar ise, önlerine çıkan her gezegeni yok ederek Rahibeler Meclisi’ne yaklaşıyordu. Bene Gesserit’ten güçlü olan, Dağılış’tan dönen bu acımasız tarikat karşısında çaresiz durumdaki Rahibeler Birliği’nin elinde tek bir silah vardı artık. Paul Muad’Dib’e ve Tanrı İmparator’a hizmet etmiş biri: Duncan Idaho.",
-        "publisher": "İthaki Yayınları",
-        "pages": 544,
-        "imageURL": "https://i.dr.com.tr/cache/600x600-0/originals/0001900706001-1.jpg"
+      "id": 4,
+      "name": "Dune Tanrı İmparatoru",
+      "examine": "Dune Çocukları’ndaki olayların üzerinden üç bin yıldan fazla geçmiştir. Dune artık çok farklı bir gezegendir. Fakat değişmeyen bir şey var: Dune’un Tanrı İmparatoru II. Leto.Dune adıyla bilinen Arrakis gezegeninden evreni kontrol eden Tanrı İmparator II. Leto, evrene daha önce tatmadığı uzunlukta bir barış getirmişti. Fakat son yaklaşıyordu. İnsanlığın evrimini ve geleceğini tayin edebilecek tek kişi olan Tanrı İmparator II. Leto nihai zaferine ulaşmak için çok büyük bir fedakârlıkta bulunmalıydı…",
+      "publisher": "İthaki Yayınları",
+      "pages": 512,
+      "imageURL": "https://i.dr.com.tr/cache/600x600-0/originals/0001723185001-1.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Dune Sapkınları",
+      "examine": "Tanrı İmparator II. Leto’nun üç bin beş yüz yıla yakın süren hükümdarlığının son bulmasının üstünden bin beş yüz yıl geçti. Altın Yol için yaptığı bu fedakârlıktan sonra insanlar II. Leto’nun “gerçekten de” ölüp ölmediğinden hâlâ emin değillerdi ve İmparatorluk harap olsa da Altın Yol’u sıkı sıkıya takip etmeye devam edeceklerdi.Dağılış sonucu milyonlarca insan parçalanan medeniyeti terk ederek uzayın bilinmeyen köşelerine dağılmışlardı. Artık Rakis denen Arrakis yine çölleşmişti ve kum solucanları ölmekteydi. Bu sırada, Kayıp Olanlar gücü ellerine geçirmek için geri dönmüştü. Hizipler, İmparatorluk’tan arta kalanın kontrolünü ele geçirmek için yarışırken Rakis’te Sheeana adında bir kız tüm dikkatleri üstüne çekmişti çünkü son Tanrı İmparator’un bahsettiği kehaneti gerçekleştirebiliyordu: Kum solucanlarını kontrol etmek.Tüm bunlar olurken Bene Geseritler’in önünde iki seçenek vardı: Ya gizli manipülatörler olarak, hayatta kalmaya çabalayan insanlığın aynı yolda ilerlemesini yönlendirmeye devam edip gerilimi azaltacak ya da Altın Yol’u kabul edip insanlığı yok olma tehlikesinden uzak yeni bir geleceğe götüreceklerdi.",
+      "publisher": "İthaki Yayınları",
+      "pages": 632,
+      "imageURL": "https://i.dr.com.tr/cache/600x600-0/originals/0001893221001-1.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Dune Rahibeler Meclisi",
+      "examine": "Dune adıyla bilinen Arrakis gezegeni yok edilmişti. Maderşahi örgüt Saygın Analar, Eski İmparatorluk’tan geriye kalanları yakıp kül ediyordu. Mutlak fetihlerinin önünde duran tek bir güç kalmıştı geriye: Bene Gesserit.Başrahibe Ana Darwi Odrade’nin önderlik ettiği Bene Gesseritler, yeşilliklerle dolu Rahibeler Meclisi gezegeni adım adım bir çöle dönüştürüyordu. Amaçları, kumsolucanları için ideal bir ortam yaratmak ve evrendeki en önemli maddenin üretimini kontrol etmekti – melanjın.Saygın Analar ise, önlerine çıkan her gezegeni yok ederek Rahibeler Meclisi’ne yaklaşıyordu. Bene Gesserit’ten güçlü olan, Dağılış’tan dönen bu acımasız tarikat karşısında çaresiz durumdaki Rahibeler Birliği’nin elinde tek bir silah vardı artık. Paul Muad’Dib’e ve Tanrı İmparator’a hizmet etmiş biri: Duncan Idaho.",
+      "publisher": "İthaki Yayınları",
+      "pages": 544,
+      "imageURL": "https://i.dr.com.tr/cache/600x600-0/originals/0001900706001-1.jpg"
+    },
+    {
+      "name": "Yüzüklerin Efendisi",
+      "publisher": "Metis Yayıncılık",
+      "imageURL": "https://img.kitapyurdu.com/v1/getImage/fn:11339906/wh:true/wi:220",
+      "examine": "Dünya ikiye bölünmüştür, denir Tolkien'ın yapıtı söz konusu olduğunda: Yüzüklerin Efendisi'ni okumuş olanlar ve okuyacak olanlar. 1997 ile birlikte, çok sayıda Türkiyeli okur da \"okumuş olanlar\" safına geçme fırsatı buldu. Kitabın türkçe basımı Yüzüklerin Efendisi'ne duyulan ilginin evrenselliğini kanıtladı.\nYapıtın bu başarısını taçlandırmak için üç kısmı bir araya getiren bu özel, tek cilt edisyonu sunuyoruz: Hem hâlâ okumamış, \"okuyacak olanlar\" için, hem de bu güzel kitabın kütüphanenizde gelecek kuşaklara devrolacak kadar kalıcı olması için Yüzüklerin Efendisi yirminci yüzyılın en çok okunan yüz kitabı arasında en başta geliyor; bilimkurgu, fantazi, polisiye, best-seller ya da ana akım demeden, tüm edebiyat türleri arasındaki tartışmasız bir önderliğe sahip. Bir açıdan bakarsanız bir fantezi romanı, başka bir açıdan baktığınızda, insanlık durumu, sorumluluk, iktidar ve savaş üzerine bir roman. Bir yolculuk, bir büyüme öyküsü; fedakârlık ve dostluk üzerine, hırs ihanet üzerine bir roman.",
+      "id": 7
+    },
+    {
+      "name": "Marslı",
+      "publisher": "İthaki Yayınları",
+      "imageURL": "https://img.kitapyurdu.com/v1/getImage/fn:11280187/wh:true/wi:220",
+      "examine": "Altı gün önce, Mark Watney Mars’a ayak basan ilk insanlardan biriydi. Şimdi ise, orada ölmesi neredeyse kesin.\n“Çok uzun zamandan beri okuduğum en iyi kitap. Zeki, eğlenceli ve gerilim dolu. Marslı, bir romandan isteyebileceğiniz her şeye sahip.”",
+      "id": 8
     }
-]
+  ]
 }
