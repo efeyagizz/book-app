@@ -4,7 +4,6 @@ import serialize from "form-serialize";
 class AddBook extends React.Component {
 
     handleFormSubmit = (e) => {
-        //e.preventDefault();
         const newBook = serialize(e.target, {hash: true});
         this.props.AddNewBook(newBook);
     }
@@ -26,8 +25,8 @@ class AddBook extends React.Component {
               <input type="text" name="name" className="form-control" />
             </div>
             <div className="form-group col-md-2">
-              <label htmlFor="publisher">Publisher</label>
-              <input type="text" name="publisher" className="form-control" />
+              <label htmlFor="writer">Writer</label>
+              <input type="text" name="writer" className="form-control" />
             </div>
           </div>
           <div className="form-row">

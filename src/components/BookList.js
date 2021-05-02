@@ -27,7 +27,7 @@ class BookList extends React.Component {
                     max={6000}
                     readMoreText={<span style={{fontWeight: "bold"}}>Devamını Oku</span>}/>
                     <div className="d-flex justify-content-between align-items-center">
-                    <p className="card-text">{book.publisher}
+                    <p className="card-text">{book.writer}
                     </p>
                     </div>
                     
